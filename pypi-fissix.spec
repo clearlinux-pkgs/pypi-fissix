@@ -7,7 +7,7 @@
 #
 Name     : pypi-fissix
 Version  : 24.4.24
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/11/fb/174b49419d4f4d057e65cecba8107a8074a67a3aea59bc80f4e50875b479/fissix-24.4.24.tar.gz
 Source0  : https://files.pythonhosted.org/packages/11/fb/174b49419d4f4d057e65cecba8107a8074a67a3aea59bc80f4e50875b479/fissix-24.4.24.tar.gz
 Summary  : Monkeypatches to override default behavior of lib2to3.
